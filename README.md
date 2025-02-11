@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/public/assets/DevDisplayLOGO/ICON.png" width="50" alt="DevDisplay Icon">
   <h1>DevDisplay</h1>
-  <p>DevDisplay Community Website</p>
+  <p>DevDisplay College Community Website</p>
   <p>
     <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white" alt="shadcn/ui">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
