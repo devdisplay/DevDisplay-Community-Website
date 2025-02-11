@@ -23,7 +23,7 @@
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/codeaashu/DevDisplay-Community-Website.git
+git clone https://github.com/devdisplay/DevDisplay-Community-Website.git
 ```
 
 2. Go into project
